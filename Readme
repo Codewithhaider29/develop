@@ -1,0 +1,67 @@
+# Code with Haider
+
+## Overview
+Welcome to **Code with Haider**! This is a personal portfolio and timeline website showcasing the career journey and projects of Haider Ali, a senior frontend engineer.
+
+## Features
+- Responsive design
+- Timeline of experience at companies like Shopify, Ambrook, Stripe, and Apple
+- Clean and minimal UI
+- Styled using CSS
+
+## Installation
+
+### Prerequisites
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/)
+
+### Steps
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/code-with-haider.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd code-with-haider
+   ```
+3. Install dependencies:
+   ```sh
+   yarn install
+   ```
+4. Start the development server:
+   ```sh
+   yarn dev
+   ```
+
+## Deployment
+The project can be deployed using [Vercel](https://vercel.com/).
+
+1. Install Vercel CLI:
+   ```sh
+   npm install -g vercel
+   ```
+2. Deploy:
+   ```sh
+   vercel
+   ```
+
+## GitHub Setup
+1. Initialize Git (if not already initialized):
+   ```sh
+   git init
+   ```
+2. Add a remote repository:
+   ```sh
+   git remote add origin https://github.com/your-username/code-with-haider.git
+   ```
+3. Commit and push changes:
+   ```sh
+   git add .
+   git commit -m "Initial commit"
+   git push -u origin main
+   ```
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
